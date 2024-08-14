@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.util.Properties;
 import java.io.IOException;
 import java.io.FileNotFoundException;
-
+//This is a java class for reading the properties file.
 public class ConfigFileReader {
 
     private Properties properties;
