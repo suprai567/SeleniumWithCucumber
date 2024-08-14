@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import java.time.Duration;
-//StepDefination java class
+//Step Defination java class sadas
 public class LoginStepDefs {
     private WebDriver driver;
     private LoginPage loginPage;
